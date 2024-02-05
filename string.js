@@ -1,6 +1,6 @@
 const userName = 'blackPink';
 const userInput = 'blackPinK';
-
+//  console.log(userName.toLocaleUpperCase);
 
 if(userName.toLocaleLowerCase == userInput.toLocaleLowerCase)
 {
